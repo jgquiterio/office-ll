@@ -28,7 +28,7 @@
 <td colspan="4">Sistema de Marketing Multi Nivel, é um sistema de investimento voltado para o mercado financeiro tendo foco principal em leilões online, com retornos diarios e rendimentos em bônus de indicações direta, indireta, criações de rede binaria, unilevel e sistema de pontuação para ganhos de prêmios entregues pela empresa.</td>
 </tr>
 <tr>
-<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/179563011-dee46d8a-56b1-4799-b0c2-d1f61a5359c2.png" alt="" /></td>
+<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/179564456-9a6169da-2dd3-4bd4-bf9e-9c8cb6671700.png" alt="" /></td>
 </tr>
 </tbody>
 </table>
